@@ -2,9 +2,9 @@ public class PersonDemo{
 
        public static void main(String args[])
        {
-              Person person = new Person("Fatihah Zakari","Seri Kembangan");
-              Person student = new Student("Aliff Izzat", "Batu Pahat", "Freshman");
-              Person employee = new Employee("Amirul Hanif","Johor Bahru", 001, 4000,"23May21");
+              Person person = new Person("Fatini Ishak","Seri Kembangan");
+              Person student = new Student("Izz Aliff", "Batu Pahat", "Freshman");
+              Person employee = new Employee("Amirul Izzat","Johor Bahru", 001, 4000,"23May21");
               Person faculty = new Faculty("Afiq Hanafi","Parit Sulong",002,4300,"12Jan20",35,41);
               Person staff = new Staff("Fariz Zainal","Parit Raja",003,5300,"7Mac18","Manager");
               Person roles[] = { person, student, employee, faculty, staff };
